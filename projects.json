@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "dzasp.cl",
+    "type": "E-commerce",
+    "description": "Implementación de e-commerce Prestashop. Carga de productos, integración con addons, pasarelas de pagos nacionales.",
+    "skills": [
+      "Prestashop",
+      "PHP",
+      "MySQL",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/dzasp.jpg",
+    "date": 2024,
+    "display": false
+  },
+  {
+    "id": 2,
+    "name": "bigos.cl",
+    "type": "E-commerce",
+    "description": "Implementación de e-commerce Prestashop. Carga de productos, instalación de blog, pluggins, pasarelas de pagos nacionales (MercadoPago, Webpay, Flow), sistema de facturación electrónica, punto de venta. Personalización de plantillas TPL y correos transaccionales de Prestashop. Integración de MercadoLibre. Generación de GoogleSheets vinculadas a MySQL/SyncWith.",
+    "skills": [
+      "Prestashop",
+      "PHP",
+      "MySQL",
+      "HTML5",
+      "CSS3",
+      "GoogleSheets"
+    ],
+    "img": "./assets/img/bigos.jpg",
+    "date": 2024,
+    "display": true
+  },
+  {
+    "id": 3,
+    "name": "laboquilla.cl",
+    "type": "E-commerce",
+    "description": "Implementación de catálogo online en Prestashop. Integración de addons, punto de venta y sistema de facturación electrónica. Personalización de plantillas TPL de Prestashop. Personalización de plantillas TPL de Prestashop.",
+    "skills": [
+      "Prestashop",
+      "PHP",
+      "MySQL",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/laboquilla.jpg",
+    "date": 2024,
+    "display": true
+  },
+  {
+    "id": 4,
+    "name": "ludorata.cl",
+    "type": "E-commerce",
+    "description": "Implementación de e-commerce Prestashop. Carga de productos, instalación de blog, pluggins, pasarelas de pagos nacionales (MercadoPago, Webpay, Flow), sistema de facturación electrónica, punto de venta. Personalización de plantillas TPL y correos transaccionales de Prestashop. Integración de MercadoLibre. Generación de GoogleSheets vinculadas a MySQL/SyncWith.",
+    "skills": [
+      "Prestashop",
+      "PHP",
+      "MySQL",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/dzasp.jpg",
+    "date": 2024,
+    "display": false
+  },
+  {
+    "id": 5,
+    "name": "NaturalPic",
+    "type": "Galeria",
+    "description": "Desarrollo de galería en ReactJS, framework Bootstrap, CSS3 personalizado, Javascript. Información se obtiene desde archivo JSON. Diseño original, temático y responsive. Con lista de favoritos y buscador.",
+    "skills": [
+      "ReactJS",
+      "Javascript",
+      "JSON",
+      "Bootstrap",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/naturalpic.jpg",
+    "date": 2024,
+    "display": true
+  },
+  {
+    "id": 6,
+    "name": "MamaMia",
+    "type": "E-commerce",
+    "description": "Desarrollo de carrito de compra en ReactJS, framework Bootstrap, CSS3 personalizado, Javascript. Menú se obtiene desde archivo JSON. Diseño original, temático y responsive. Con cupón de descuento y puntos de fidelización.",
+    "skills": [
+      "ReactJS",
+      "Javascript",
+      "JSON",
+      "Bootstrap",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/mamamia.jpg",
+    "date": 2024,
+    "display": true
+  },
+  {
+    "id": 7,
+    "name": "LikeMe",
+    "type": "Red Social",
+    "description": "Desarrollo de prototipo de red social en ReactJS, framework Bootstrap, CSS3, Javascript. Información almacenada con PostgreSQL y obtenida mediante operaciones CRUD. Diseño original, temático y responsive.",
+    "skills": [
+      "ReactJS",
+      "Javascript",
+      "PostgreSQL",
+      "Bootstrap",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/likeme.jpg",
+    "date": 2024,
+    "display": true
+  },
+  {
+    "id": 8,
+    "name": "Sintesis de Conocimientos",
+    "type": "Knowledge Base",
+    "description": "Implementación de base de conocimientos con Wordpress. Migración desde Joomla. Integración de addons, personalización de diseño, desarrollo de funcionalidades.",
+    "skills": [
+      "Wordpress",
+      "PHP",
+      "MySQL",
+      "HTML5",
+      "CSS3"
+    ],
+    "img": "./assets/img/sintesis.jpg",
+    "date": 2024,
+    "display": true
+  }
+]

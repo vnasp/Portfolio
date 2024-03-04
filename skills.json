@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "ReactJs",
+    "badge_bg_color": "1e293b",
+    "logo": "react",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 2,
+    "name": "React_Router",
+    "badge_bg_color": "1e293b",
+    "logo": "react-router",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 3,
+    "name": "HTML5",
+    "badge_bg_color": "1e293b",
+    "logo": "HTML5",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 4,
+    "name": "Bootstrap",
+    "badge_bg_color": "1e293b",
+    "logo": "bootstrap",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 5,
+    "name": "Tailwind_CSS",
+    "badge_bg_color": "1e293b",
+    "logo": "tailwind-css",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 6,
+    "name": "CSS3",
+    "badge_bg_color": "1e293b",
+    "logo": "css3",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 7,
+    "name": "JavaScript",
+    "badge_bg_color": "1e293b",
+    "logo": "javascript",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 8,
+    "name": "Json",
+    "badge_bg_color": "1e293b",
+    "logo": "json",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 9,
+    "name": "MySQL",
+    "badge_bg_color": "1e293b",
+    "logo": "mysql",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 10,
+    "name": "NodeJS",
+    "badge_bg_color": "1e293b",
+    "logo": "Node.JS",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 11,
+    "name": "PHP",
+    "badge_bg_color": "1e293b",
+    "logo": "php",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 12,
+    "name": "Prestashop",
+    "badge_bg_color": "1e293b",
+    "logo": "prestashop",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 13,
+    "name": "Wordpress",
+    "badge_bg_color": "1e293b",
+    "logo": "wordpress",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 14,
+    "name": "VSCode",
+    "badge_bg_color": "1e293b",
+    "logo": "visual studiocode",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 15,
+    "name": "Adobe Photoshop",
+    "badge_bg_color": "1e293b",
+    "logo": "adobe photoshop",
+"logo_bg_color": "white"
+  },
+  {
+    "id": 16,
+    "name": "Google Sheets",
+    "badge_bg_color": "1e293b",
+    "logo": "google sheets",
+"logo_bg_color": "white"
+  }
+]
